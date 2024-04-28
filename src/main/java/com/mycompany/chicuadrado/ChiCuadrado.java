@@ -12,6 +12,7 @@ public class ChiCuadrado {
 
     public static void main(String[] args) {
         System.out.println("Hola mundo!");
-         System.out.println("hjcvasjc!");
+        System.out.println("hjcvasjc!");
+        System.out.println("Hola soy Cristian!");
     }
 }
